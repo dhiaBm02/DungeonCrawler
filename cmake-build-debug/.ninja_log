@@ -1,0 +1,27 @@
+# ninja log v5
+3992	4924	1673442709620415200	CMakeFiles/PG2_DungeonCrawler.dir/Pit.cpp.o	77744344e7ae355a
+134	4361	1674498472803705300	CMakeFiles/PG2_DungeonCrawler.dir/main.cpp.o	64c8a5f2fda6d1a2
+110	1074	1673460449177759100	CMakeFiles/PG2_DungeonCrawler.dir/Lootchest.cpp.o	1e83ea262e043dd6
+985	2260	1673444809126071800	CMakeFiles/PG2_DungeonCrawler.dir/Portal.cpp.o	233480be9cdd05cd
+4401	5274	1673442710003134100	CMakeFiles/PG2_DungeonCrawler.dir/Levelchanger.cpp.o	4eb3c933d0a1e4eb
+1129	2432	1673444809312448700	CMakeFiles/PG2_DungeonCrawler.dir/Wall.cpp.o	42a7a29bf1d64d86
+19	1062	1673473124972288700	CMakeFiles/PG2_DungeonCrawler.dir/Level.cpp.o	4c38d3a5959ab0d
+2611	2844	1669837255781915700	CMakeFiles/PG2_DungeonCrawler.dir/AbstractController.cpp.o	cff07f79afbe0bb6
+169	4022	1674498472162433200	CMakeFiles/PG2_DungeonCrawler.dir/Tile.cpp.o	f82f597a626bb3c4
+258	4031	1674498472448433600	CMakeFiles/PG2_DungeonCrawler.dir/TerminalUI.cpp.o	52696de2c900f6a7
+5	290	1674498539399542100	build.ninja	9b23258f5d9da99b
+17	4211	1674498472658196300	CMakeFiles/PG2_DungeonCrawler.dir/Dungeoncrawler.cpp.o	5d74166963edb90a
+4013	4939	1673442709632374400	CMakeFiles/PG2_DungeonCrawler.dir/Ramp.cpp.o	5fd8c86cbc4561d2
+1594	2495	1673444809401151600	CMakeFiles/PG2_DungeonCrawler.dir/NPC.cpp.o	776cfe22151fc6e4
+4361	5177	1674498473580188400	PG2_DungeonCrawler.exe	55300111c2d8bec
+1821	4583	1673442709299835100	CMakeFiles/PG2_DungeonCrawler.dir/Switch.cpp.o	8e9ffdc8d54cb294
+78	1062	1673444807951003100	CMakeFiles/PG2_DungeonCrawler.dir/Floor.cpp.o	1513b93602daf525
+19	1457	1673448622044396600	CMakeFiles/PG2_DungeonCrawler.dir/AbstractUI.cpp.o	738bc5f8d49986c9
+1686	1839	1669807654851520800	CMakeFiles/PG2_DungeonCrawler.dir/Passive.cpp.o	e7225f5da40d6eb
+42	984	1673444807892470800	CMakeFiles/PG2_DungeonCrawler.dir/Character.cpp.o	1722816af77aca6c
+1374	2155	1669808787458989800	CMakeFiles/PG2_DungeonCrawler.dir/Active.cpp.o	3726ee6e9d328428
+395	4352	1674498472779705000	CMakeFiles/PG2_DungeonCrawler.dir/List.cpp.o	1bedff7315a34a1f
+146	891	1670932123837317300	CMakeFiles/PG2_DungeonCrawler.dir/GuardController.cpp.o	b83cf128d9c23fd2
+1774	4401	1673442709116101800	CMakeFiles/PG2_DungeonCrawler.dir/Door.cpp.o	c62150e5d8b2490e
+35	3564	1691418010654538200	CMakeFiles/PG2_DungeonCrawler.dir/Graph.cpp.o	cb19d829a4434b7e
+3566	4785	1691418011866679700	PG2_DungeonCrawler.exe	12c489b866b4bafc
